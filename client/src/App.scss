@@ -1,0 +1,29 @@
+*{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.App-header{
+  background: linear-gradient(358deg, #7171b8, transparent);
+}
+.wallet-btn{
+  background: linear-gradient(89.93deg, rgba(255, 91, 109, 0.27) 2.77%, rgba(238, 169, 80, 0) 109.06%)
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--primary);
+  border-radius: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: gray;
+  border-radius: 14px;
+  border: 3px solid var(--primary);
+}
+.active {
+  border: 1px solid grey;
+}

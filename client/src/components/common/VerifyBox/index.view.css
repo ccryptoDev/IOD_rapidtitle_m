@@ -1,0 +1,23 @@
+.otp-verify div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+@media (min-width: 1600px){
+    .otp-verify input{
+        width: 70px !important;
+        height: 70px;
+        border: 1px solid red;
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 1400px){
+    .otp-verify input{
+        width: 40px !important;
+        height: 40px;
+        border: 1px solid red;
+        font-size: 20px;
+    }
+}

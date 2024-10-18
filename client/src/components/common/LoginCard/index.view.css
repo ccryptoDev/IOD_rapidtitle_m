@@ -1,0 +1,23 @@
+.login-card{
+    filter: drop-shadow(0px 24px 24px rgba(0, 0, 0, 0.25));
+    border-radius: 30px;
+    display: flex;
+}
+.login-logo{
+    width: 45% !important;
+    height: 100% !important;
+}
+.welcome{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    color: #333399;
+}
+.logo-text{
+    font-weight: 500;
+    color: white;
+    position:absolute;
+    left: 32px;
+    bottom: 82px;
+}

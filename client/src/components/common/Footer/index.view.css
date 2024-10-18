@@ -1,0 +1,18 @@
+.footer {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #AAB2FA 71.9%, #FF7095 100%);
+    justify-content: space-evenly;
+}
+.footer-icons {
+    border: 1px solid #5C5CAD;
+    border-radius: 10px;
+}
+.footer-border{
+    border-left:1px solid #000;
+    height:100%;
+}
+.summary {
+    border-left: 1px solid;
+    padding-left: 100px;
+    padding-right: 50px;
+    border-style: dashed;
+}

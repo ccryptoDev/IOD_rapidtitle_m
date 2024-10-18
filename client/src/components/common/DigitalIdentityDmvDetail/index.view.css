@@ -1,0 +1,24 @@
+.label {
+    font-size: 15px;
+}
+.main-text {
+    font-size: 20px;
+    color: #4848A4;
+}
+.title-text {
+    font-size: 25px;
+    color: #333399;
+}
+.carousel-slider {
+    height: 100%;
+}
+.slider-wrapper {
+    height: 92px !important;
+    padding: 28px;
+}
+li.slide {
+    min-width: 109% !important;
+}
+ul.animated {
+    transform: translate3d(-100%, 0px, 0px);
+}
